@@ -1,0 +1,23 @@
+{
+    "name": "marrow/form-builder",
+    "description": "Django-style declarative forms for Marrow — define fields on the backend, validate with the framework's existing rule engine, render on the frontend.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["marrow", "framework", "forms", "validation", "twig"],
+    "homepage": "https://github.com/marrow-framework/form-builder",
+    "support": {
+        "issues": "https://github.com/marrow-framework/form-builder/issues",
+        "source": "https://github.com/marrow-framework/form-builder"
+    },
+    "require": {
+        "php": ">=8.2",
+        "marrow/framework": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Marrow\\FormBuilder\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

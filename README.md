@@ -1,7 +1,22 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/marrow-framework/.github/main/marrow-logo-mark.svg" alt="Marrow" width="120">
+
 # Marrow Form Builder
 
-Django-style declarative forms for [Marrow](https://github.com/marrow-framework/core):
-define fields on the backend, validate with the framework's existing rule
+Django-style declarative forms for [Marrow](https://github.com/marrow-framework/core).
+
+[![CI](https://img.shields.io/github/actions/workflow/status/marrow-framework/form-builder/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/marrow-framework/form-builder/actions/workflows/ci.yml)
+[![Packagist Version](https://img.shields.io/packagist/v/marrow/form-builder?style=flat-square&label=packagist)](https://packagist.org/packages/marrow/form-builder)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/marrow/form-builder?style=flat-square&color=blue)](https://packagist.org/packages/marrow/form-builder)
+[![PHP 8.2+](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
+[![License MIT](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](LICENSE)
+
+</div>
+
+---
+
+Define fields on the backend, validate with the framework's existing rule
 engine, render on the frontend.
 
 ```bash
@@ -179,5 +194,12 @@ PHP 8.2+, `marrow/framework`.
 
 ## License
 
-MIT.
-# form-builder
+MIT — see [LICENSE](LICENSE).
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Aure Dulvresse](https://github.com/AureDulvresse)
+
+</div>
